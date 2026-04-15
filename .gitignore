@@ -1,0 +1,39 @@
+## LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ind
+*.ilg
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+
+## Generated PDF (uncomment if you want to track compiled output)
+# *.pdf
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+## IDE
+.idea/
