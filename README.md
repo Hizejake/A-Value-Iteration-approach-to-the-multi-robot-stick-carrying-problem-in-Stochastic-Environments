@@ -9,6 +9,7 @@ solve it for an optimal policy with **value iteration**.
 
 
 ![dashboard](outputs/rollout.gif)
+![dashboard[(outputs/dashboard.png)
 
 ## Problem formulation
 
