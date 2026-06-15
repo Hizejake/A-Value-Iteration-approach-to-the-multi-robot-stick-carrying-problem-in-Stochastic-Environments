@@ -8,7 +8,7 @@ a random direction. We model the task as a Markov Decision Process (MDP) and
 solve it for an optimal policy with **value iteration**.
 
 
-![dashboard](outputs/dashboard.png)
+![dashboard](outputs/rollout.gif)
 
 ## Problem formulation
 
